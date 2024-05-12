@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Weather App'),
+        title: Text('Clima App'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
