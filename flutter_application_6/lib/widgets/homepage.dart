@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
             ),
             SizedBox(height: 10),
             Text(
-              'Ciudad: Ciudad Ejemplo',
+              'Ciudad: La Ceiba',
               style: TextStyle(
                 fontSize: 18,
               ),
